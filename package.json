@@ -1,0 +1,31 @@
+{
+  "name": "ibroom",
+  "version": "1.0.0",
+  "description": "tiny library to clean your arrays, array cleaner , performance array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Amechghal/ibroom.git"
+  },
+  "keywords": [
+    "clean",
+    "array",
+    "array",
+    "performance",
+    "clean",
+    "object",
+    "reduce",
+    "items",
+    "broom",
+    "sweep"
+  ],
+  "author": "Ali Amechghal <ali.amechghal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ali-Amechghal/ibroom/issues"
+  },
+  "homepage": "https://github.com/Ali-Amechghal/ibroom#readme"
+}
